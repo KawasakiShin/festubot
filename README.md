@@ -1,2 +1,2 @@
-# festubot
+# @Moon_dou_bot
 Festutimetablebot
